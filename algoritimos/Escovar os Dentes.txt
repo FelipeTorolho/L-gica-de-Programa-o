@@ -1,0 +1,18 @@
+1- ir ao banheiro
+2- ligar a luz
+3- pegar a escova de dentes
+4- pegar a pasta de dente
+5- abrir a pasta de dente
+6- colocar a pasta de dente na escova
+7- abrir a torneira
+8- molhar a escova com a pasta de dente
+9- fechar a torneira
+10- escovar os dentes
+11- assim que terminar cuspir a espuma 
+12- ligar a torneira
+13- enxaguar a boca 
+14- cuspir a água
+15- fechar a torneira
+16- apagar a luz
+17- sair do banheiro
+18- fechar a porta do banheiro

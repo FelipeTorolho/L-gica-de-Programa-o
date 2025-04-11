@@ -1,0 +1,9 @@
+pegar os ingredientes de um sanduíche
+
+abrir o pão
+
+colocar os ingredientes dentro do pão
+
+fechar o pão
+
+comer o sanduíche
