@@ -13,7 +13,7 @@ void loop()
   while( ! Serial.available () );
   idade = Serial.parseInt();
     
- if (idade >= 16 , idade <= 70 )  {
+  if (idade >= 16 && idade <= 70 )  {
   Serial.println("Voto obrigatorio");
 } else {
   Serial.println("Voto não obrigatorio");
@@ -21,4 +21,4 @@ void loop()
 
   
  delay(2000);
-}
+} 
