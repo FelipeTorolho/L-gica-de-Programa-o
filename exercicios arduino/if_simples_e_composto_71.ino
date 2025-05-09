@@ -14,12 +14,13 @@ void loop()
   while (!Serial.available());
   numero2 = Serial.parseInt();
 
-  
-  if (numero >= numero2) {
-    Serial.println("o numero maior e:" + String(numero));
-  }else{
-    Serial.println("o numero maior e:" + String(numero));
-  }
+  if (numero > numero2) {
+    Serial.println("O número maior é: " + String(numero));
+} else if (numero2 > numero) {
+    Serial.println("O número maior é: " + String(numero2));
+} else {
+    Serial.println("Os números são iguais.");
+}
 
   delay(3000);
 }
