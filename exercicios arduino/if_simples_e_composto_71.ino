@@ -20,7 +20,7 @@ void loop()
     Serial.println("O número maior é: " + String(numero2));
 } else {
     Serial.println("Os números são iguais.");
-}
+} 
 
   delay(3000);
 }
