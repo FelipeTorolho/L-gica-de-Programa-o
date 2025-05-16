@@ -23,10 +23,10 @@ void loop()
   
   int notaf = nota1 + nota2 / 2;
     
-  if(notaf == 10 && frequencia == 100){
+  if(notaf == 10 || frequencia == 100){
    Serial.println("Parabéns! Nota máxima!");
     
-  }else if(notaf <=9 && frequencia <=99){
+  }else if(notaf <=9 || frequencia <=99){
    Serial.println("Aprovado");
     
   }else if(frequencia <75){
